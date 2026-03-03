@@ -1,0 +1,63 @@
+# Bruno Mars – Too Good to Say Goodbye
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:14.25] I've made mistakes
+[00:19.12] I could have treated you better
+[00:26.22] I let you get away
+[00:31.78] There goes my happily ever after
+[00:47.78] 
+[00:35.89] Tell me why, why can't we try and start again?
+[00:45.30] This can't be how our story ends
+[00:51.23] You're more than my girl, you're my best friend
+[00:57.66] Tell me you remember when
+[01:01.46] Oooh, I was your man and you were my girl
+[01:05.39] It was you and me against the world
+[01:22.89] 
+[01:07.92] Baby, ain't nobody gonna love me like the way you do
+[01:14.89] And you ain't never gonna find a love like mine
+[01:19.58] Tell me what can I do to make it up to you?
+[01:27.26] 'Cause what we got's too good to say goodbye, goodbye
+[01:53.76] 
+[01:37.93] Yeah, I'm still in love with you darlin'
+[01:44.03] I know you feel the same
+[01:47.74] Oh, what's the point of both of us being broken hearted?
+[01:55.77] I pray it's never too late
+[02:08.77] 
+[01:59.65] So tell me, why, why can't we try and start again?
+[02:09.59] This can't be how our story ends
+[02:15.38] You're more than my girl, you're my best friend
+[02:21.83] Tell me you remember when
+[02:26.77] I was your man and you were my girl
+[02:29.40] It was you and me against the world
+[02:46.90] 
+[02:32.17] Baby, ain't nobody gonna love me like the way you do
+[02:38.98] And you ain't never gonna find a love like mine
+[02:43.61] Tell me what can I do to make it up to you?
+[02:51.37] 'Cause what we got's too good to say goodbye, goodbye
+[03:17.87] 
+[03:00.90] (Oh, don't you give up)
+[03:02.35] Girl won't you listen?
+[03:04.04] (Oh, don't you give up)
+[03:05.15] It's you that I'm missin'
+[03:07.17] (Oh, don't you give up)
+[03:07.87] Take my hand, I wanna go, I wanna go
+[03:11.84] (All the way)
+[03:14.17] If we're gonna fight this fight for better days
+[03:19.57] I know we're gonna make it
+[03:22.08] This is the chance, let's take it
+[03:38.58] 
+[03:24.33] Baby, ain't nobody gonna love me like the way you do
+[03:30.73] (No, no, no, no)
+[03:31.98] And you ain't never gonna find a love like mine
+[03:36.56] (Oh, tell me)
+[03:37.82] Tell me what can I do to make it up to you?
+[03:44.47] 'Cause what we got's too good to say goodbye
+[03:47.92] (Come on, come on) goodbye (Oh baby, baby)
+[03:53.56] Baby, ain't nobody gonna love me like the way you do
+[03:59.90] And you ain't never gonna find a love like mine
+[04:04.67] (Oh, tell me)
+[04:05.93] Tell me what can I do to make it up to you?
+[04:12.46] 'Cause what we got's too good to say goodbye, goodbye
+```
