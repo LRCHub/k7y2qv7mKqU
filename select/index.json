@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Too Good to Say Goodbye",
+  "base_artist": "Bruno Mars",
+  "createdAt": "2026-03-03T06:38:07.892574Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Too Good to Say Goodbye",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/01_Too_Good_to_Say_Goodbye_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Too Good to Say Goodbye",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/02_Too_Good_to_Say_Goodbye_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Too Good to Say Goodbye",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/03_Too_Good_to_Say_Goodbye_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Too Good To Say Goodbye",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/04_Too_Good_To_Say_Goodbye_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Too Good to Say Goodbye",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/05_Too_Good_to_Say_Goodbye_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Too Good to Say Goodbye",
+      "artist": "Mars Bruno",
+      "has_synced": true,
+      "path": "select/06_Too_Good_to_Say_Goodbye_Mars_Bruno.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Too Good to Say Goodbye",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/07_Too_Good_to_Say_Goodbye_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Too Good to Say Goodbye",
+      "artist": "ブルーノ・マーズ",
+      "has_synced": true,
+      "path": "select/08_Too_Good_to_Say_Goodbye_ブルーノ・マーズ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Too Good to Say Goodbye",
+      "artist": "Song, Bruno Mars",
+      "has_synced": true,
+      "path": "select/09_Too_Good_to_Say_Goodbye_Song,_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Too Good to Say Goodbye",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/10_Too_Good_to_Say_Goodbye_Bruno_Mars.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Too Good To Say Goodbye",
+      "artist": "Bruno Mars",
+      "has_synced": false,
+      "path": "select/pl_01_Too_Good_To_Say_Goodbye_Bruno_Mars.txt"
+    }
+  ]
+}
